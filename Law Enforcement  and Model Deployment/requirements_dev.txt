@@ -1,0 +1,21 @@
+ydata_profiling
+lightgbm
+matplotlib==3.6.2       # additional - used by many units
+numpy==1.20.3           # base
+pandas==1.4.2           # base
+seaborn
+scikit-learn==1.2.0    # base
+category_encoders==2.5.1.post0
+flask==2.2.2
+peewee==3.15.4
+tqdm
+python-Levenshtein
+fuzzywuzzy
+opencage
+ipywidgets
+sqlalchemy==1.4
+psycopg2-binary
+sweetviz
+shapely
+geopandas
+folium
