@@ -1,3 +1,4 @@
+Click here to read the [Full Project Documentation (PDF)](Readme.pdf)
 
 
 ![][image1]
